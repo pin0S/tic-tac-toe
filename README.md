@@ -1,5 +1,4 @@
 # Tic-tac-toe
----
 This is a simple implementation of tic-tac-toe made during my bootcamp. 
 
 The aim was to practice methods, loops and conditions statements by creating a tic-tac-toe game for two human players.
